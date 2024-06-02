@@ -1,4 +1,4 @@
-#Predicting Cancer with Gene Expression Data
+#Predicting Cancer malignancy with Gene Expression Data
 #data = Breast Cancer Wisconsin (Diagnostic) Data Set
 getwd
 setwd("~/Desktop/data science ")
